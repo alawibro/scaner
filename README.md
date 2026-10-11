@@ -1,0 +1,2 @@
+# scaner
+ntah coba2
